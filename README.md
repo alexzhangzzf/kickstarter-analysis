@@ -2,4 +2,4 @@
 Performing analysis on Kickstarter data to uncover trends
 
 bold
-![test](kickstarter-analysis/Picture1.png)
+![test](/Picture1.png)
