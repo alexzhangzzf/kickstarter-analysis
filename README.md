@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Analysis of Factors Influencing Kickstarter Crowdfunding Campaigns in Theater
 ## Overview of Project
 ### Purpose
 The goal of this project is to perform analysis on existing crowdfunding campaigns to uncover trend in successful campaigns based on various factors especially in theatre area in order to help Louise fundraising her play Fever with a goal of $10,000. We will use crowdfunding data from Kickstarter to analyze and determine the factors leading to successful campaigns, specifically how launch dates and funding goals can impact results of different campaigns.  
