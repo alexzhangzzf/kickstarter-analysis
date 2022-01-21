@@ -20,7 +20,7 @@ To analyze Kickstarter campaign outcomes based on funding goals, percentage of s
 COUNTIFS function was used to populate number of successful, failed and canceled plays from outcomes within each specific range and percentage of successful, failed and canceled play among all plays are calculated for each dollar amount range as shown in table above.
 Percentage of successful, failed and canceled plays over amount ranges of campaign goal is visualized by creating a line chart with amount range on the x-axis and percentage of project outcomes on the y-axis.
 
-![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 No difficulties were encountered during analysis. Some possible challenges encountered are obtaining the well representative crowdfunding data to help planning Louise’s campaign for her play.  There are many crowdfunding websites to choose from and to avoid drowning in data, we decided to use Kickstarter as representative site as it is the most famous one especially for creative entrepreneurs. 
